@@ -159,6 +159,5 @@ GPATH
 GRTAGS
 Pipfile.lock
 
-# Ignore compiled bits
 bin/
 build/
